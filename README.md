@@ -105,6 +105,6 @@ It is inspired by the CodeSearchNet dataset and stored in CSV format.
 
 ## Authors
 
-- Muhammad Mubeen Shar Gil (7200436)
-- Kumar Laveet (7199378)
-- Ahmed Masood (7199688)
+- Muhammad Mubeen Shar Gil
+- Kumar Laveet
+- Ahmed Masood
