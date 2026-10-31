@@ -20,13 +20,14 @@ with an attention mechanism, implemented in PyTorch.
 
 ## Project Structure
 
+```text
 mlsaSeq2SeqProject/
 │
 ├── data/
 │   └── sample_data2.csv
 │
 ├── models/
-│   └── model.pth
+│   └── model.pth (generated after training)
 │
 ├── src/
 │   ├── tokenizer.py
@@ -36,8 +37,9 @@ mlsaSeq2SeqProject/
 │   ├── evaluate.py
 │   └── summarize.py
 │
+├── .gitignore
 └── README.md
-
+```
 ## Requirements
 
 - Python 3.11
